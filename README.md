@@ -5,7 +5,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=SayedHaneef31&lay
 
 
  # Commit graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritikkumar352&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SayedHaneef31&theme=github-dark)
 
 <!--
 
